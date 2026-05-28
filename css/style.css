@@ -249,7 +249,8 @@ section {padding: 60px 0;}
 .hero-content h1 {font-size: 40px;}
 .hero-one__shape {right: 5%;top: 52%;width: 10%;}
 .hero-one__shape img{width:100%;}
-
+.hero-image{order:-1;}
+    
 .navbar{padding: 0.5rem !important;}
 
 .skills-grid{grid-template-columns: repeat(1, 1fr);}
@@ -260,6 +261,8 @@ section {padding: 60px 0;}
 
 .portfolio-card{height: 290px;}
 .portfolio-posters img{height: 350px;}
+.portfolio-blog-grid,.portfolio-logo-grid {grid-template-columns: repeat(2, 1fr);}
+.portfolio-logo-grid{gap: 20px;}    
 
 .contact-box h2 {font-size: 30px;}
 }
