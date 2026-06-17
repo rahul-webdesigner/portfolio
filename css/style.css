@@ -340,9 +340,6 @@ section {padding: 60px 0;}
 .portfolio-arrow{top: 45px;}
 .portfolio-arrow svg{width:45%;}
 .portfolio-star .shape-1{right: 80px;top: 15px;}
-}
-
-@media(max-width:991px){
-    .reels-grid{grid-template-columns:repeat(2,1fr);}
-    .reel-card img{height:450px;}
+.reels-grid{grid-template-columns:repeat(2,1fr);}
+.reel-card img{height:450px;}
 }
