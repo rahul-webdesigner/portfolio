@@ -298,7 +298,6 @@ nav{display:none;}
 
 .page-title-box p {max-width: 85%;}
 
-.reels-grid{grid-template-columns:1fr;}
 .reel-card img{height:auto;}
 }
 
@@ -328,7 +327,7 @@ section {padding: 60px 0;}
 .contact-box h2 {font-size: 30px;}
 
 .page-title-box p {max-width: 100%;}
-.reels-grid {grid-template-columns: repeat(1, 1fr);}
+.reels-grid{grid-template-columns:1fr !important;}
 }
 
 @media(min-width:769px) and (max-width:991px){
