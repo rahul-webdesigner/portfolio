@@ -155,7 +155,8 @@ to{opacity:1;transform:translateY(0);}
 .portfolio-posters img{
   width:100%;
   margin-bottom:30px;
-  height:275px;
+  /*height:275px;*/
+  height:auto;
   transition: 0.3s ease-in-out;
   -webkit-transition: 0.3s ease-in-out;
   -moz-transition: 0.3s ease-in-out;
